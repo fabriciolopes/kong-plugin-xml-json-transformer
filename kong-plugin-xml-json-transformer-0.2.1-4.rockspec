@@ -1,5 +1,5 @@
 package = "kong-plugin-xml-json-transformer"
-version = "0.2.4-1"
+version = "0.2.1-4"
 supported_platforms = {"linux", "macosx"}
 source = {
    url = "https://github.com/fabriciolopes/kong-plugin-xml-json-transformer"
